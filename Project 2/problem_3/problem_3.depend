@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1526379512 source:c:\users\mo7y\desktop\assignment_3\problem_3\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<sstream>
+
+1526388883 source:c:\users\hadeer\desktop\assignment_3\problem_3\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<sstream>
+

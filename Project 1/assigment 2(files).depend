@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523995201 source:c:\users\hadeer\desktop\assigment 2(files)\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<vector>
+	<string>
+	<strstream>
+	<bits/stdc++.h>
+	<cstring>
+
